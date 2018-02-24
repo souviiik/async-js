@@ -1,0 +1,14 @@
+{
+  "name": "01-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Souvik Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
+}
